@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Coriolando Medeiros😄
+## Bem-vindo(a) ao perfil do Coriolando Medeiros
 
  <div>
   <a href="https://github.com/Coriolando-Medeiros">
