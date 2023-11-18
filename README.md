@@ -4,9 +4,9 @@
   <a href="https://github.com/Coriolando-Medeiros">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Coriolando-Medeiros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Coriolando-Medeiros">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coriolando-Medeiros&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
+<a href="https://github.com/Coriolando-Medeiros">
+  <img style ="height: 180px" style="width: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coriolando-Medeiros&layout=compact&langs_count=6&theme=tokyonight"/>
+</a>
 </div>
 
 
