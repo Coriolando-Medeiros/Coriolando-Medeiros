@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/Coriolando-Medeiros">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Coriolando-Medeiros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Coriolando-Medeiros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a><a href="https://github.com/Coriolando-Medeiros">
   <img style ="height: 140px" style="width: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coriolando-Medeiros&layout=compact&langs_count=6&theme=tokyonight"/>
 </a>
